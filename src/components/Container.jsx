@@ -2,6 +2,7 @@ import React from 'react'
 import { useRef, useState, useEffect } from 'react'
 import { ToastContainer, toast } from 'react-toastify';
 import { v4 as uuidv4 } from 'uuid';
+{/* <link rel="preconnect" href="https://fonts.googleapis.com"></link> */}
 
 const Container = () => {
 
@@ -141,8 +142,8 @@ const Container = () => {
             />
             <div className='flex flex-col gap-4 justify-center items-center mt-2'>
                 <div className='flex flex-col justify-center items-center'>
-                    <div className='font-bold text-[32px]'>
-                        &lt;<span>pass</span><span className='text-purple-700 text-[36px]'>Op</span>/&gt;
+                    <div className='font-bold text-[29px]'>
+                        &lt;<span>pass</span><span className='text-purple-600 text-[33px] font-[900]'>MG</span>/&gt;
                     </div>
                     <div className='font-bold'>Manage Your Own Passwords</div>
                 </div>

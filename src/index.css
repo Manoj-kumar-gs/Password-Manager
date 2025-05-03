@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+body {
+    font-family: "Sansation", sans-serif;
+    font-weight: 700;
+  }
