@@ -19,10 +19,10 @@ A full-stack password manager application to store, manage, and delete credentia
 ## 📸 Screenshots
 
 ### 💻 Desktop View  
-![Desktop View](images/ui/ui-desktop-look)
+![Desktop View](icons/ui/ui-desktop-look.png)
 
 ### 📱 Mobile View  
-![Mobile View](images/ui/ui-mobile-look)
+![Mobile View](icons/ui/ui-mobile-look.png)
 
 ---
 
